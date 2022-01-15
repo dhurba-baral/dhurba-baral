@@ -1,5 +1,5 @@
 # Hi! I'm Dhurba Baral
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhurba-baral)](https://github.com/dhurba-baral/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhurba-baral)](https://github.com/dhurba-baral/github-readme-stats&theme=dark)
 
 <!--
 **dhurba-baral/dhurba-baral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
